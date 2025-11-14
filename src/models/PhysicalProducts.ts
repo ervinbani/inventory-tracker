@@ -1,4 +1,4 @@
-import { Product } from "./Products.js";
+import { Product } from "./Products";
 
 export class PhysicalProduct extends Product {
   weight: number;

@@ -1,4 +1,4 @@
-import { Product } from "./Products.js";
+import { Product } from "./Products";
 
 export class DigitalProduct extends Product {
   fileSize: number;
